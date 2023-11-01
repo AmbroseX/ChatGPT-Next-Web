@@ -316,7 +316,7 @@ const cn = {
       "如果你是第一次使用该系统，请前往[设置](/#/settings) 页填入你自己的令牌（API Key）。\n" +
       "如果您没有 OpenAI API Key，可以考虑使用本项目的中转服务，价格与 OpenAI 完全保持一致，并且可以在大部分地区直连使用，使用此中转服务将帮助本项目良性发展。\n" +
       "\n" +
-      "中转入口：SuGPT API: https://open-api.zeabur.app/",
+      "中转入口：SuGPT API: https://api.wow3.top/",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
