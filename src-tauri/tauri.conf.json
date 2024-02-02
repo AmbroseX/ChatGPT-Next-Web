@@ -9,7 +9,7 @@
   },
   "package": {
     "productName": "SuGPT AI Web",
-    "version": "2.9.13"
+    "version": "2.10.1"
   },
   "tauri": {
     "allowlist": {
