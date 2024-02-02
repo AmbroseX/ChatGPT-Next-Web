@@ -15,7 +15,7 @@ FROM base AS builder
 
 RUN apk update && apk add --no-cache git
 
-ENV BASE_URL="https://open-api.zeabur.app"
+ENV BASE_URL="https://open-api.wow3.top"
 ENV OPENAI_API_KEY=""
 ENV GOOGLE_API_KEY=""
 ENV CODE=""
